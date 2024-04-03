@@ -27,7 +27,7 @@ def update_gui():
 
 # Initialize Tkinter
 root = tk.Tk()
-root.title("Arduino Live Update Interface")
+root.title("Arduino Live Update Interface By LeTrongThang")
 root.geometry("400x300")  # Set the window size
 
 # Create a label to display Arduino data
